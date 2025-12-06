@@ -1,0 +1,26 @@
+html, body, #root {
+  margin: 0;
+  height: 100%;
+  background-color: rgb(40, 44, 52);
+}
+
+.app-header {
+  background-color: #1d1d1d;
+  padding-bottom: 5px
+}
+
+.accent {
+  color: #0066ff;
+}
+
+.bg-darkslategray {
+  background-color: rgb(40, 44, 52);
+}
+
+.text-decoration-italicized {
+  font-style: italic;
+}
+
+.full-width-container {
+  width: 100%;
+}
